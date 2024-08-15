@@ -25,9 +25,13 @@ Only if you know the problem you are trying to solve and if short-term training 
 
 ## Process
 
+### Every Process Should Have A Documented Outcome
+
 ### Test The Process
 
 Leverage "doing" as an opportunity to observe failure - and to learn. Section your system. DOCUMENT FIRST.
+
+### Compliance
 
 ## Technology
 
