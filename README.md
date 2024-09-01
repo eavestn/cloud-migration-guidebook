@@ -32,16 +32,16 @@ A few years ago, some dudes (2001) figured out that you could get your product t
 
 > ... [I]f you wait too long to get your understanding of your customers' needs in front of them, the greater the chance your customers' needs will have changed.
 
-But, like, they didn't do anything big, all they wrote was: 
+But, like, they didn't do anything big, all they wrote was (_emphasis original_): 
 
 > We are uncovering better ways of developing  
 > software by doing it and helping others do it.  
 > Through this work we have come to value:  
 >
-> Individuals and interactions over processes and tools  
-> Working software over comprehensive documentation  
-> Customer collaboration over contract negotiation  
-> Responding to change over following a plan  
+> **Individuals and interactions** over processes and tools  
+> **Working software** over comprehensive documentation  
+> **Customer collaboration** over contract negotiation  
+> **Responding to change** over following a plan  
 >
 > That is, while there is value in the items on  
 > the right, we value the items on the left more.  
