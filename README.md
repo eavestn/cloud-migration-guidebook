@@ -34,17 +34,17 @@ A few years ago, some dudes (2001) figured out that you could get your product t
 
 But, like, they didn't do anything big, all they wrote was: 
 
-> We are uncovering better ways of developing
-> software by doing it and helping others do it.
-> Through this work we have come to value:
+> We are uncovering better ways of developing  
+> software by doing it and helping others do it.  
+> Through this work we have come to value:  
 >
-> Individuals and interactions over processes and tools
-> Working software over comprehensive documentation
-> Customer collaboration over contract negotiation
-> Responding to change over following a plan
+> Individuals and interactions over processes and tools  
+> Working software over comprehensive documentation  
+> Customer collaboration over contract negotiation  
+> Responding to change over following a plan  
 >
-> That is, while there is value in the items on
-> the right, we value the items on the left more.
+> That is, while there is value in the items on  
+> the right, we value the items on the left more.  
 
 The problem was that people ran with wreckless abandon to the edge of the cliff of this freedom and jumped straight off. The point was missed and quickly everything became excessively over-regimented. Certificate-issuing organizations started introducing frameworks that sought to structure this new way of working and guarantee results; however, those frameworks became so poorly adopted and misused - and then made even more complex - that they didn't work [INSERT C1 Article]. Worse? Those frameworks forgot about the very reason they existed. To focus time on doing well-defined work in a way that was not over-encumbered by process. 
 
