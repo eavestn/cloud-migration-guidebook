@@ -50,7 +50,15 @@ The problem was that people ran with wreckless abandon to the edge of the cliff 
 
 #### Focus
 
-#### The Problems Cheap With On-Premises Services
+#### The Problems With Cheap On-Premises Services
+
+A friend of mine works in IOT for large corporate offices. The problems she and her team solve are enormous. A recent endeavor was determining how to enable corporate office spaces to automate efficient climate control without knowing anything about office structure and environment. Not small problems. She and I disagree about technology all the time (funnily never about how to enable teams and build stable software - it's probably the only thing in our relationship that we agree on). She and I got to talking about how much cheaper on-premises services are to run. I pushed back and immediately she started laying out the solution topography for an on-premises "serverless" function. 
+
+Again, nothing groundbreaking. If you've been around long enough in Engineering, likely you've had to deploy a server-backed solution that makes intelligent us of its operating environment. But, as a Hiring Manager, here's the problem I have: the fundamentals of Engineering are disappearing behind an enormous, social-media-driven spray of bad advice. Self-labeled "technology leaders" never having had to deal with the consequences of their poor decision making issue tome after tome of 250-word blog entries. A great lot of it runs absolutely counter to the way we know we _have to_ build software. 
+
+Don't believe me? How many organizations do you know that bemoan the fact they can never get _anything_ done? It takes forever. The Engineering team is slow. Change is risky. We are failing to produce good systems because as an industry we have abandoned the fundamentals that matter.
+
+Yet - with that lack of foundation - there are technology leaders who believe we should be talking about self-managing the segmentation of processing on self-hosted servers. Our profession isn't built to support on-premises solutions anymore. And getting back? Getting back is going to be so expensive. You've got to re-train an entire industry and do that while delivering software. Similar to cloud migrations: if you want a team that is _efficient_ in the future, you will have to homogenize your technical posture. Living in two environments - baselining focus on any one solution at fifty percent (50%) out of the gate - is an impossibility without horrendous budgets. So, not only do you have to retrain an entire industry, you've got to _again_ not deliver any new behavior to your customers for two to three years. 
 
 
 ## People
