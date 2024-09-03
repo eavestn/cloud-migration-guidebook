@@ -10,7 +10,9 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 This history below isn't new, but in order to successfully produce software, you need to understand it; or, rather, you need to master it. We've been writing software for _decades_ at this point; yet, unlike roads, bridges, houses, manufactured goods, farming, and so on, software fails at an unnacceptably high cost. And it doesn't have to. The reason software's failure is so grandiose is because - in part - people believe they can do it without knowing anything about it. You wouldn't hire a mechanic to fix your dog; and, yet, we hire into leadership from backgrounds with _zero_ exposure to the history of the problem they are trying to solve. 
 
-[The Rolls Royce MErline wasn't built in a vacuum](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine). Aviation itself is a really interesting lesson in innovation and timescale. If you consider that the [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) first flew in 
+[The Rolls Royce MErline wasn't built in a vacuum](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine). Aviation itself is a really interesting lesson in innovation and timescale. If you consider that the [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) first flew in - dropping shells in . 
+
+We've been programming for profit for ... yet we still don't get it right despite ...
 
 ##### My Bias
 
