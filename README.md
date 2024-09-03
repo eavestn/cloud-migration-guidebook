@@ -22,7 +22,9 @@ There's a fight going on right now in the mid-2020s; the reputation of the cloud
 
 So, how did this happen? How did the cloud become "a bad decision" or "expensive"?
 
-There are always two costs to any project: the tools and the decision making of the people using those tools. That decision making - _the_ factor driving the short- and long-term costs of _your_ company - is informed by skills. Those skills are rooted in a person's training, a person's exposure, and a person's humanity. Futher layer into this _problem_ the fact that most leaders don't understand that there is only one way to solve any given problem that drives real success. Anything that isn't that solution will slow down productivity, drive down efficiency, and explode any semblence of predictability. _All_ of this will cost you money, and likely your business.
+There are always two costs to any project: the tools and the decision making of the people using those tools. That decision making - _the_ factor driving the short- and long-term costs of _your_ company - is informed by skills. Those skills are rooted in a person's training, a person's exposure, and a person's humanity. If that person .... [wip]
+
+Futher layer into this _problem_ the fact that most leaders don't understand that there is only one way to solve any given problem that drives real success. Anything that isn't that solution will slow down productivity, drive down efficiency, and explode any semblence of predictability. _All_ of this will cost you money, and likely your business.
 
 There are inescapable truths about Software. The worst? [Every system will fail to meet needs and will become progressively worse over time](https://medium.com/@eavestn/the-common-life-of-source-code-4c6aba1250fb). Why? People believe they can out perform the very physics of software. 
 
