@@ -52,7 +52,7 @@ There are always two costs to any project: the tools and the decision making of 
 
 Futher layer into this - problem of underexposure - a fact (and one people will write me nastygrams about later): there is only one way to solve any given problem that drives real success. Given a clear understanding of the constraints, we _know_ what problems need to be solved for and how best to solve them. Anything that isn't that solution will slow down productivity, drive down efficiency, and explode any semblence of predictability. _All_ of these deviations will cost you money, and likely your business. Yet Engineers are constantly pushed to deliver whatever works despite the very real near-term risks of those solutions.
 
-There are inescapable truths about Software. The worst? [Every system will fail to meet needs and will become progressively worse over time](https://medium.com/@eavestn/the-common-life-of-source-code-4c6aba1250fb). Why? People believe they can out perform the very hysics of software. 
+There are inescapable truths about Software. The worst? [Every system will fail to meet needs and will become progressively worse over time](https://medium.com/@eavestn/the-common-life-of-source-code-4c6aba1250fb). Why? Systems fail because people believe they can out perform the very physics of software - or, perhaps, they are just unaware.
 
 If leaders cannot articulate these truths, then are they able to plan for them? My concern is that I have met very few technology leaders who are capable of articulating these inescapable truths.
 
