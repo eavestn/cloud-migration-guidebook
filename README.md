@@ -6,9 +6,13 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 ### Who's This Book For?
 
+#### Audience
+
 At some point a company becomes so large that their revenue outpaces their technology spend and they can do whatever the f-ck they want to. If they make a multi-million dollar mistake, they move on and no one cares. If that's you, stop reading. This book is for everyone else. This book is for the companies who will fail if their technology fails. Realistically? This book is for the SaaS or Product company that hasn't broken $1BN in revenue. And that's because I have not _yet_ been able to prove this at that scale. I _have_ proven the below for organizations that range from less than $1M ARR USD to well near $1BN USD. Organizations ranging from fewer than five Engineers to organizations with greater than 150. I've seen what works, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
 
-Here's the other thing: the most important take away from all of this is the principles. Your implementation can honestly look like whatever you want it to; just don't deviate from the fundamentals. 
+#### What Is Successful Software?
+
+Why is this question important? Why does it relate to **Audience**?
 
 ### To Cloud or Not To Cloud
 
@@ -19,6 +23,8 @@ This history below isn't new, but in order to successfully produce software, you
 [The Rolls Royce MErline wasn't built in a vacuum](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine). Aviation itself is a really interesting lesson in innovation and timescale. If you consider that the [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) first flew in - dropping shells in . 
 
 We've been programming for profit for ... yet we still don't get it right despite ...
+
+Here's the other thing: the most important take away from all of this is the principles. Your implementation can honestly look like whatever you want it to; just don't deviate from the fundamentals. 
 
 ##### My Bias
 
