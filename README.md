@@ -4,6 +4,10 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 ## Introduction
 
+### Who's This Book For?
+
+...
+
 ### To Cloud or Not To Cloud
 
 #### Why You Need To Pay Attention
@@ -16,17 +20,17 @@ We've been programming for profit for ... yet we still don't get it right despit
 
 ##### My Bias
 
-There's a lot of emotion in my **Introduction** below. I've tried to provide some citations, but significant portions are experience based. My "feeling" isn't a good one. I think our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I write a lot from that perspective: that despite the fact that we _know_ there is a good way to delivery software, we continuously seek to make it overly complex and largely do so from a foundation of ignorance. 
+There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. I've tried to provide some citations, but significant portions are experience based. My "feeling" isn't a good one. I think our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I write a lot from that perspective: that despite the fact that we _know_ there is a good way to delivery software, we continuously seek to make it overly complex and largely do so from a foundation of ignorance. 
 
-#### The History
+#### The State of Engineering
 
 There's a fight going on right now in the mid-2020s; the reputation of the cloud is diminishing. A number of organizations are evaluating their infrastructural posture not having seen the gains they expected by moving off-premises and into "the cloud". Some go as far as to define this fight and evaluation as the early stages of an exodus. My _feeling_? Like Marx wrote of the economies, the utopian future is the coming-to-rest of the cloud vs. on-premises predulum smack in the center. But, here's the thing: on-premises solutions are _cheaper_ (see [**The Problems With Cheap On-Premises Services**](#the-problem-with-cheap-on-premises-services) later). Think about it, how many servers could you purchase for $50K a month - a real number that won't shock many technology leaders of cloud-based companies barely breaking $1M USD ARR (though it should, particularly as the spend is likely over-inflated by bad decisions in the magnitude of 10x)? 
 
 So, how did this happen? How did the cloud become "a bad decision" or "expensive"?
 
-There are always two costs to any project: the tools and the decision making of the people using those tools. That decision making - _the_ factor driving the short- and long-term costs of _your_ company - is informed by skills. Those skills are rooted in a person's training, a person's exposure, and a person's humanity. If that person .... [wip]
+There are always two costs to any project: the tools and the decision making of the people using those tools. That decision making - _the_ factor driving the short- and long-term costs of _your_ company - is informed by skills. Those skills are rooted in a person's training, a person's exposure, and a person's humanity. If that person has not been exposed to a different way of doing this - and people are intrisically motivated to do what they know - then their ability to do what's best for your company is severely limited by their exposure. 
 
-Futher layer into this _problem_ the fact that most leaders don't understand that there is only one way to solve any given problem that drives real success. Anything that isn't that solution will slow down productivity, drive down efficiency, and explode any semblence of predictability. _All_ of this will cost you money, and likely your business.
+Futher layer into this _problem_ the fact that most leaders don't understand that there is only one way to solve any given problem that drives real success. Given a clear understanding of the constraints, we _know_ what problems need to be solved for and how best to solve them. Anything that isn't that solution will slow down productivity, drive down efficiency, and explode any semblence of predictability. _All_ of this will cost you money, and likely your business. Yet Engineers are constantly pushed to deliver whatever works despite the very real near-term risks of those solutions.
 
 There are inescapable truths about Software. The worst? [Every system will fail to meet needs and will become progressively worse over time](https://medium.com/@eavestn/the-common-life-of-source-code-4c6aba1250fb). Why? People believe they can out perform the very physics of software. 
 
