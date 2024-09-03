@@ -89,6 +89,10 @@ The worst part is that the people that can think the way that is needed to build
 
 ### Watch Out For Unicorns
 
+### Set The Vision
+
+Everyone needs to articulate _why_ **the cloud** is _the_ solution. And it can't be superficial - finances are great, but why should people believe in the cloud?
+
 ### Education
 
 Should I train my people?  
