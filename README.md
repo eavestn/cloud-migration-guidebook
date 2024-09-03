@@ -16,11 +16,11 @@ You need to get to place where your revenue growth or market position are so str
 
 #### What Is Successful Software?
 
-Why is this question important? Why does it relate to **Audience**? Before you read this book - before you consider adopting these strategies - you should make sure you are aligned with my definition of good software. If you disagree with my defintion of good software, then you should stop reading. I aim to deliver software that I classify as good - software that has met several criteria. I wrote a [high-level article about the definition of "good" a few years ago](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff). While I believe in soft success qualities defined in that article, I believe, when defining success, I want to make sure I define success _measurably_. 
+Why is this question important? Why does it relate to **Audience**? Before you read this book - before you consider adopting these strategies - you should make sure you are aligned with my definition of good software. If you disagree with my defintion of good software, then you should stop reading. I aim to deliver software that I classify as good - software that has met several criteria. I wrote a [high-level article about the definition of "good" a few years ago](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff). While I believe in the soft qualities defined in that article, I also believe - when defining success - a real definition of success is _measurable_. 
 
-When I define success measurably, I can evaluate whether or not I have succeeded. I can also evaluate whether or not I should change my strategy. When something is unmeasurable, I cannot make informed decisions and therefore it is dangerous. 
+My sole motivation is not the exit. I don't define success as getting acquired. That shallow definition develops a reputation for Engineering unscalable products that fail to meet revenue expectations or integration expectations after acquisition. I want to develop software that makes an obscene amount of cash, for a cheaply as possible, as quickly as possible, as stably as possible, as predictably as possible, and as extensibly as possible. When I define success measurably, I can evaluate whether or not I have succeeded. I can also evaluate whether or not I should change my strategy. When something is unmeasurable, I cannot make informed decisions and therefore it is dangerous. 
 
-My sole motivation is not the exit. I don't define success as getting acquired. That shallow definition develops a reputation for Engineering unscalable products that fail to meet revenue expectations or integration expectations after acquisition. I want to develop software that makes an obscene amount of cash, for a cheaply as possible, as quickly as possible, as stably as possible, as predictably as possible, nd as extensibly as possible. 
+I also define software as the team that builds it. I want a team that ....
 
 I'll write more about the pitfalls of measurements in [**Metrics**](#metrics), however ....
 
@@ -155,4 +155,5 @@ Depends on your cloud migration strategy. Are you net-newing based on a Product 
 ### No Man's Land (Need Place In Structure)
 
 #### Do's and Dont's Of On-Call
-#### Measuring Software
+#### Measuring Software (Metrics)
+#### Don't Obsess Over Touch
