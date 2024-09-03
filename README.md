@@ -10,9 +10,11 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 At some point a company becomes so large that their revenue growth outpaces their technology spend (or their product moves into the "required" space) and they can do whatever they want. If they make a multi-million dollar mistake, they move on and no one cares. If that's you, stop reading. This book is for everyone else. 
 
-This book is for the companies who will fail if their technology fails. This book is for the SaaS or Product company that hasn't broken $1BN in revenue. And that's because I haven't yet implemented these patterns at that scale. I _have_ proven the below for organizations that range from less than $1M ARR USD to well near $1BN USD. Organizations ranging from fewer than five Engineers to organizations with greater than 150. I've seen what works, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
+This book is for the SaaS or Product company that hasn't broken $1BN in revenue. And that's because I haven't yet implemented these patterns at that scale. I _have_ proven the below for organizations that range from less than $1M ARR USD to well near $1BN USD. Organizations ranging from fewer than five Engineers to organizations with greater than 150. I've seen what works, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
 
-You need to get to place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you have to survive - and you 
+Realistically, this book is for the companies who will fail if their technology fails.
+
+Yes, you need to get to place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you have to survive - and do so without debilitating your company in the process.
 
 #### What Is Successful Software?
 
