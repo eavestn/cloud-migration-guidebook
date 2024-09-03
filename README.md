@@ -12,6 +12,10 @@ This history below isn't new, but in order to successfully produce software, you
 
 [The Rolls Royce MErline wasn't built in a vacuum](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine). Aviation itself is a really interesting lesson in innovation and timescale. If you consider that the [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) first flew in 
 
+##### My Bias
+
+There's a lot of emotion in my **Introduction** below. I've tried to provide some citations, but significant portions are experience based. My "feeling" isn't a good one. I think our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I write a lot from that perspective: that despite the fact that we _know_ there is a good way to delivery software, we continuously seek to make it overly complex and largely do so from a foundation of ignorance. 
+
 #### The History
 
 There's a fight going on right now in the mid-2020s; the reputation of the cloud is diminishing. A number of organizations are evaluating their infrastructural posture not having seen the gains they expected by moving off-premises and into "the cloud". Some go as far as to define this fight and evaluation as the early stages of an exodus. My _feeling_? Like Marx wrote of the economies, the utopian future is the coming-to-rest of the cloud vs. on-premises predulum smack in the center. But, here's the thing: on-premises solutions are _cheaper_ (see [**The Problems With Cheap On-Premises Services**](#the-problem-with-cheap-on-premises-services) later). Think about it, how many servers could you purchase for $50K a month - a real number that won't shock many technology leaders of cloud-based companies barely breaking $1M USD ARR (though it should, particularly as the spend is likely over-inflated by bad decisions in the magnitude of 10x)? 
@@ -75,6 +79,8 @@ The worst part is that the people that can think the way that is needed to build
 
 ### The Culture That Produced The Problem Is Liable To Repeat The Failure
 
+### Watch Out For Unicorns
+
 ### Education
 
 Should I train my people?  
@@ -95,6 +101,8 @@ Only if you know the problem you are trying to solve and if short-term training 
 ## Process
 
 ### Every Process Should Have A Documented Outcome
+
+### Watch Out For the Figs
 
 ### Test The Process
 
