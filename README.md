@@ -50,6 +50,8 @@ But, like, they didn't do anything big, all they wrote was (_emphasis original_)
 
 The problem was that people ran with wreckless abandon to the edge of the cliff of this freedom and jumped straight off. The point was missed and quickly everything became excessively over-regimented. Certificate-issuing organizations started introducing frameworks that sought to structure this new way of working and guarantee results; however, those frameworks became so poorly adopted and misused - and then made even more complex - that [they didn't work](https://www.reuters.com/technology/capital-one-scraps-1100-tech-positions-source-2023-01-19/). Worse? Those frameworks forgot about the very reason they existed. To focus time on doing well-defined work in a way that was not over-encumbered by process. 
 
+The reality is none of these factors change whether you're in the cloud or on-premises.
+
 #### Focus
 
 #### The Problems With Cheap On-Premises Services
