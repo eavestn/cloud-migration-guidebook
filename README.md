@@ -135,3 +135,7 @@ Leverage "doing" as an opportunity to observe failure - and to learn. Section yo
 #### Is This A Risk?
 
 Depends on your cloud migration strategy. Are you net-newing based on a Product organization that has a clear, written definition of the behaviors the business needs to support? Or are you discovering this as you go? Or are you "lifting-and-shifting" your way to the cloud.
+
+### No Man's Land (Need Place In Structure)
+
+#### Do's and Dont's Of On-Call
