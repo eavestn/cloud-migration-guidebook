@@ -18,7 +18,7 @@ There are always two costs to any project: the tools and the decision making of 
 
 There are inescapable truths about Software. The worst? [Every system will fail to meet needs and will become progressively worse over time](https://medium.com/@eavestn/the-common-life-of-source-code-4c6aba1250fb). Why? People believe they can out perform the very physics of software. 
 
-Never trust the arrogance that assumes manufacturing - at scale - the little silver trash can in my bathroom is harder than manufacturing software. People _pretend_ software is different. Why? Software is maleable, quickly modifiable. The perception is that software - as we way in climbing - has a lower commitment grade than manufacturing a trash can. 
+Never trust the arrogance that assumes manufacturing  the little silver trash can in my bathroom at scale is harder than manufacturing software. People _pretend_ software is different. Why? Software is maleable, quickly modifiable. The perception is that software - as we way in climbing - has a lower commitment grade than manufacturing a trash can. 
 
 [_Enter stage right the problem of the Customer._]
 
