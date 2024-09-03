@@ -157,3 +157,4 @@ Depends on your cloud migration strategy. Are you net-newing based on a Product 
 #### Do's and Dont's Of On-Call
 #### Measuring Software (Metrics)
 #### Don't Obsess Over Touch
+#### Plan For Failure
