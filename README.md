@@ -160,3 +160,10 @@ Depends on your cloud migration strategy. Are you net-newing based on a Product 
 #### Measuring Software (Metrics)
 #### Don't Obsess Over Touch
 #### Plan For Failure
+#### Cloud Transformation Readiness Test
+
+Could you deploy something to the cloud, today? Then you are not ready. No work should begin until your answer to that question is "yes"
+
+#### Cloud Transformation Readiness Inventory
+
+Can be taken to any technical organization.
