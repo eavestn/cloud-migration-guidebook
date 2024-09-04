@@ -14,7 +14,7 @@ This book is for the SaaS or Product company that hasn't broken $1BN in revenue.
 
 Realistically, this book is for the companies who will fail if their technology fails.
 
-Yes, you need to get to place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you have to survive - and do so without debilitating your company in the process.
+Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you have to survive - and do so without debilitating your company in the process.
 
 #### What Is Successful Software?
 
