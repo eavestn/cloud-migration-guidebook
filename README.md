@@ -8,7 +8,7 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 #### Audience
 
-Eventually, a company may become so large that its revenue growth will outpace its technology spend. If these companies make a multi-million dollar mistake, they will move on and no one will really care. I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the statement never got any attention. These companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
+I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the statement never got any attention. Eventually, a company may become so large that its revenue growth will outpace its technology spend. If these companies make a multi-million dollar mistake, they will move on and no one will really care. These companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
 
 If this describes your company, stop reading. This book can't be for you. This book is for everyone else. 
 
@@ -26,7 +26,9 @@ I aim to deliver good - successful - software. I wrote a [high-level article abo
 
 I don't define success as getting acquired. That shallow definition (and target) has a reputation for delivering unscalable products that fail to meet revenue expectations or integration expectations after acquisition (that's why Merger and Acquisition (M&A) Consulting in technology is big business). I define software as successful if it is cheap, fast, stable, understandable, replaceable, and extensible. These are all measurable qualities of software. Notice in this definition I don't list Product qualities. I define software as successful if it enables a Product team to make informed decisions about what the Product should do and if the software can rapidly change to support those findings. I define successful software as software that does not debilitate an organization from pivoting.
 
-Measuring the right thing and using those metrics as a launching off point for deeper conversations is something I address in [**Metrics**](#metrics). Those measurable qualities listed above - though they enable usability and relevance - are not themselves quantifying success in terms of "makes me the most money". Those are natural consequences of measuring the right thing, but not the thing that is measured to dictate _technological_ choices. A product should be desirable (and measured), but the _technology_ should be judged by its ability to deliver desirable software.
+Those measurable qualities listed above - though they enable usability and relevance - are not themselves quantifying success in terms of "makes me the most money". Those are natural consequences of measuring the right thing, but not the thing that is measured to dictate _technological_ choices. A product should be desirable (and measured), but the _technology_ should be judged by its ability to deliver desirable software. Again - making cash, mega important - but you can't do that with software that fails to deliver change.
+
+Measuring the right thing and using those metrics as a launching off point for deeper conversations is something I address in [**Metrics**](#metrics). 
 
 ### To Cloud or Not To Cloud
 
