@@ -46,7 +46,7 @@ Here's the other thing: the most important take away from all of this is the pri
 
 ##### My Bias
 
-There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. I've tried to provide some citations, but significant portions are experience based. My "feeling" isn't a good one. I think our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I write a lot from that perspective: that despite the fact that we _know_ there is a good way to delivery software, we continuously seek to make it overly complex and largely do so from a foundation of ignorance. 
+There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I have admittedly written a lot of what you wil read below from that perspective: that despite the fact that we _know_ there is a good way to delivery software, we continuously seek to make it overly complex and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
 
 #### The State of Engineering
 
