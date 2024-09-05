@@ -18,7 +18,7 @@ Realistically, this book is for the companies who will fail if their technology 
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
-The ideal audience of this book believes that the first technological choices made in a system's life are the most critical to that system's success. My audience believes that good software is sofware succeeds.
+The ideal audience of this book believes that the first technological choices made in a system's life are the most critical to that system's success. My audience believes that good software is sofware that succeeds.
 
 ##### What Is Successful Software?
 
@@ -28,7 +28,9 @@ I don't define success as getting acquired. That shallow definition (and target)
 
 Those measurable qualities listed above - though they enable usability and relevance - are not themselves quantifying success in terms of "makes me the most money". Those are natural consequences of measuring the right thing, but not the thing that is measured to dictate _technological_ choices. A product should be desirable (and measured), but the _technology_ should be judged by its ability to deliver desirable software. Again - making cash, mega important - but you can't do that with software that fails to deliver change.
 
-Measuring the right thing and using those metrics as a launching off point for deeper conversations is something I address in [**Metrics**](#metrics). 
+The audience of this book believes that success is built on good software.
+
+_Measuring the right thing and using those metrics as a launching off point for deeper conversations is something I address in [**Metrics**](#metrics)._
 
 ### To Cloud or Not To Cloud
 
