@@ -18,9 +18,11 @@ Realistically, this book is for the companies who will fail if their technology 
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
+The ideal audience of this book believes that the first technological choices made in a system's life are the most critical to that system's success. My audience believes that good software is sofware succeeds.
+
 ##### What Is Successful Software?
 
-I aim to deliver software that I classify as good - software that succeeds. I wrote a [high-level article about the definition of "good" a few years ago](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I believe in the soft qualities defined in that article, I also believe - when defining success - a real definition of success is _measurable_. Before you read this book - before you consider adopting these strategies - you should make sure you are aligned with my definition of good software. If you disagree with my defintion of good software, then you should stop reading.
+I aim to deliver successful software. I wrote a [high-level article about the definition of "good" a few years ago](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I believe in the soft qualities defined in that article, I also believe - when defining success - a real definition of success is _measurable_. Before you read this book - before you consider adopting these strategies - you should make sure you are aligned with my definition of good software. If you disagree with my defintion of good software, then you should stop reading.
 
 I don't define success as getting acquired. That shallow definition (and target) has a reputation for delivering unscalable products that fail to meet revenue expectations or integration expectations after acquisition (that's why Merger and Acquisition (M&A) Consulting in technology is big business). I define software as successful if it is cheap, fast, stable, understandable, replaceable, and extensible. These are all measurable qualities of software. Notice in this definition I don't list Product qualities. I define software as successful if it enables a Product team to make informed decisions about what the Product should do and if the software can rapidly change to support those findings. I define successful software as software that does not debilitate an organization from pivoting.
 
