@@ -12,7 +12,7 @@ Eventually, a company may become so large that its revenue growth will outpace i
 
 If this describes your company, stop reading. This book can't be for you. This book is for everyone else. 
 
-This book is for the SaaS or Product company that hasn't broken $1BN in revenue. I haven't yet implemented these patterns at that scale. I _have_ proven the below patterns and principles for organizations that range from less than $1M ARR USD to well near $1BN USD. Organizations ranging from fewer than five Engineers to organizations with greater than 150. Audience bases between 100,000 users and 300M. Transactions per second supporting multiple-hundreds per second. I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
+This book is for the SaaS or Product company that hasn't broken $1BN in revenue. I haven't yet implemented these patterns at that scale. I _have_ proven the below patterns and principles for organizations that range from less than $1M USD ARR to well near $1B USD. Organizations ranging from fewer than five (5) Engineers to organizations with greater than 150. Audience bases between 100,000 users and 300M. Transactions per second thresholds supporting multiple-hundreds of transactions per second. I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
 
 Realistically, this book is for the companies who will fail if their technology fails.
 
