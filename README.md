@@ -22,11 +22,9 @@ Yes, you need to get to a place where your revenue growth or market position are
 
 I aim to deliver software that I classify as good - software that succeeds. I wrote a [high-level article about the definition of "good" a few years ago](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I believe in the soft qualities defined in that article, I also believe - when defining success - a real definition of success is _measurable_. Before you read this book - before you consider adopting these strategies - you should make sure you are aligned with my definition of good software. If you disagree with my defintion of good software, then you should stop reading.
 
-I don't define success as getting acquired. That shallow definition (and target) has a reputation for delivering unscalable products that fail to meet revenue expectations or integration expectations after acquisition (that's why Merger and Acquisition (M&A) Consulting in technology is a business). I define software as successful if it is cheap, fast, stable, understandable, replaceable, and extensible. These are all measurable qualities of software. Notice in this definition I don't list Product qualities. I define software as successful if it enables a Product team to make informed decisions about what the Product should do and if the software can rapidly change to support those findings. I define successful software as software that does not debilitate an organization from pivoting.
+I don't define success as getting acquired. That shallow definition (and target) has a reputation for delivering unscalable products that fail to meet revenue expectations or integration expectations after acquisition (that's why Merger and Acquisition (M&A) Consulting in technology is big business). I define software as successful if it is cheap, fast, stable, understandable, replaceable, and extensible. These are all measurable qualities of software. Notice in this definition I don't list Product qualities. I define software as successful if it enables a Product team to make informed decisions about what the Product should do and if the software can rapidly change to support those findings. I define successful software as software that does not debilitate an organization from pivoting.
 
 Measuring the right thing and using those metrics as a launching off point for deeper conversations is something I address in [**Metrics**](#metrics). Those measurable qualities listed above - though they enable usability and relevance - are not themselves quantifying success in terms of "makes me the most money". Those are natural consequences of measuring the right thing, but not the thing that is measured to dictate _technological_ choices. A product should be desirable (and measured), but the _technology_ should be judged by its ability to deliver desirable software.
-
-I also define software as the team that builds it. I want a team that .... predictable
 
 ### To Cloud or Not To Cloud
 
@@ -112,6 +110,10 @@ The worst part is that the people that can think the way that is needed to build
 
 
 ## People
+
+### Team Structure
+
+Good processes build good software. 
 
 ### The Culture That Produced The Problem Is Liable To Repeat The Failure
 
