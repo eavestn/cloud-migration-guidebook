@@ -8,7 +8,9 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 #### Audience
 
-Eventually, a company may become so large that its revenue growth will outpace its technology spend. If these companies make a multi-million dollar mistake, they will move on and no one will really care. I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the initiative never left the ground. These companies are able to spend as much as 20% of their revenue on their Enginering Organization. If that describes your company, stop reading. This book can't be for you. This book is for everyone else. 
+Eventually, a company may become so large that its revenue growth will outpace its technology spend. If these companies make a multi-million dollar mistake, they will move on and no one will really care. I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the initiative never left the ground. These companies are able to spend as much as 20% of their revenue on their Enginering Organization. 
+
+If this describes your company, stop reading. This book can't be for you. This book is for everyone else. 
 
 This book is for the SaaS or Product company that hasn't broken $1BN in revenue. I haven't yet implemented these patterns at that scale. I _have_ proven the below for organizations that range from less than $1M ARR USD to well near $1BN USD. Organizations ranging from fewer than five Engineers to organizations with greater than 150. Audience bases between 100,000 users and 300M. Transactions per second supporting multiple-hundreds per second. I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
 
