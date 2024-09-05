@@ -8,7 +8,7 @@ So, you want to migrate your legacy, on-premises services to the cloud? Cloud mi
 
 #### Audience
 
-I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the statement never got any attention. Eventually, a company may become so large that its revenue growth will outpace its technology spend. If these companies make a multi-million dollar mistake, they will move on and no one will really care. These companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
+I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the statement never got any attention. Eventually, a company is so large that its revenue growth outpaces its technology spend. When those companies make a multi-million dollar mistake, they move on and no one really cares. Those companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
 
 If this describes your company, stop reading. This book can't be for you. This book is for everyone else. 
 
