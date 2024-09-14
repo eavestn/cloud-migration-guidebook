@@ -185,3 +185,5 @@ Can be taken to any technical organization.
 #### Metrics
 
 When I define success measurably, I can evaluate whether or not I have succeeded. I can also evaluate whether or not I should change my strategy. When something is unmeasurable, I cannot make informed decisions and therefore it is dangerous. 
+
+### Standards
