@@ -20,7 +20,7 @@ Realistically, this book is for the companies who will fail if their technology 
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
-The ideal audience of this book believes that the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds.
+This book's ideal reader understands that the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds.
 
 ##### What Is Successful Software?
 
