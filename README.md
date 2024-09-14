@@ -1,6 +1,6 @@
 # The Cloud Migration Guidebook
 
-So, you want to migrate your legacy, on-premises services to the cloud? Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some fail entirely leaving even government agencies with millions of dollars of spend without results. However, your transformation experience doesn't have to be poor. 
+Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some fail entirely leaving even government agencies with millions of dollars of spend without results. However, your transformation experience doesn't have to be poor. 
 
 **The Cloud Migration Guidebook**  covers getting to the cloud - and probably transformation in general. The people. The process. And the technology. The below is rooted in firm, tried philosophies of Software Engineering that have been tested - rigorously - for decades. I've implemented these philosophies - practices, processes, standards - in myself (see [**Audience**](#audience).
 
