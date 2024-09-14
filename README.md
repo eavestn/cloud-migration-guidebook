@@ -104,6 +104,8 @@ The reality is none of these factors change whether you're in the cloud or on-pr
 
 To drive strong teams, you must drive focus. Strong teams deliver cheap, scalable, extensible, and maintainable software - the software we aim to deliver. The problem with software today is that there are too many ways to solve problems. Deviations in solution technology choices represent yet more lack of focus for an Engineer: rather than adequately solving a problem, an Engineer ends up focused on something not only unrelated, but avoidable. Technological heterogeneity isn't by nature bad; but it must be managed to enable strong teams. Simply stated: in today's poorly-informed, fast-paced "development" world, the odds are stacked against enabling your team to focus. 
 
+Companies have a bias for touch - particularly when it comes to transformations. They want to _see_ the **results** of the transformation **immediately**. 
+
 Depth
 
 #### The Problems With Cheap On-Premises Services
