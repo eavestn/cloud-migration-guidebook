@@ -1,6 +1,6 @@
 # The Cloud Migration Playbook
 
-So, you want to migrate your legacy, on-premises services to the cloud? Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. However, your experience doesn't have to be. This playbook covers getting to the cloud. The people. The process. And the technology.
+So, you want to migrate your legacy, on-premises services to the cloud? Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some fail entirely leaving even government agencies with millions of dollars of spend without results. However, your experience doesn't have to be. This playbook covers getting to the cloud - and probably transformation in general. The people. The process. And the technology.
 
 ## Introduction
 
