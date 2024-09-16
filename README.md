@@ -1,8 +1,8 @@
 # The Cloud Migration Guidebook
 
-Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some fail entirely leaving even government agencies with millions of dollars of spend without results. However, your transformation experience doesn't have to be poor. 
+Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some transfomrations fail entirely, leaving  organizations with millions of dollars of spend without results. However, your transformation experience doesn't have to be poor. 
 
-**The Cloud Migration Guidebook**  covers getting to the cloud - and probably transformation in general. The people. The process. And the technology. The below is rooted in firm, tried philosophies of Software Engineering that have been tested - rigorously - for decades. I've implemented these philosophies - practices, processes, standards - myself (see [**Audience**](#audience) and grown quantifiably stronger, less-expensive teams and software.
+**The Cloud Migration Guidebook** covers getting to the cloud - and transformation in general. The people. The process. And the technology. The below is rooted in firm, tried philosophies of Software Engineering that have been tested - rigorously - for decades. I've implemented these philosophies - practices, processes, standards - myself (see [**Audience**](#audience) and grown quantifiably stronger, less-expensive teams and software.
 
 ## Introduction
 
@@ -10,17 +10,15 @@ Cloud migrations ("digital transformations") have a reputation - and, largely, i
 
 #### Audience
 
-I remember the first time I told a Product Leader that I could save them $25K USD/month on their cloud bill (67%) - for a single department - and the plan never got any traction beyond an interested eyebrow. Eventually, a company is so large that its revenue growth outpaces its technology spend - that $25K USD is just acceptable waste. When those companies make a multi-million dollar mistake, they move on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
+I remember the first time I told a Leader I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond an interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When those companies make a multi-million dollar mistake, they move on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
 
-If this describes your company, stop reading. This book is for everyone else. 
+If this describes your company, stop reading.
 
-This book is for the SaaS or Product company that hasn't broken $1BN in revenue. I haven't yet implemented these patterns at that scale. I have _proven_ the below patterns and principles for organizations that: range from less than $1M USD ARR to well near $1B USD; range from fewer than five (5) Engineers to organizations with greater than 150; have audience bases between 100,000 users and 300M; and may need the capability to support transactions per second thresholds (TPS) of multiple-hundreds of transactions per second. I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem in several flavors. 
-
-Realistically, this book is for the companies who will fail if their technology fails.
+This book is for the SaaS or Product company that hasn't broken $1BN in revenue. Why? I haven't yet implemented these patterns at that scale. I have _proven_ the below patterns and principles for organizations that: range from less than $1M USD ARR to well near $1B USD; range from fewer than five (5) Engineers to organizations with greater than 150; have audience bases between 100,000 users and 300M; and may need the capability to support transactions per second thresholds (TPS) of multiple-hundreds of transactions per second. I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem. 
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
-This book's ideal reader understands that the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds.
+This book's ideal reader understands that the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who will fail if their technology fails.
 
 ##### What Is Successful Software?
 
