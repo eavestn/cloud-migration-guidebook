@@ -38,8 +38,9 @@ _Measuring the right thing and using those metrics as a launching off point for 
 
 This history below isn't new, but to successfully produce software, you need to understand it. _You_ need to master it. We've been writing software for _decades_; yet, unlike roads, bridges, houses, manufactured goods, farming, and so on, software fails at an unnacceptably high cost and rate. And it doesn't have to. The reason software's failure is so grandiose is because - in part - people believe they can do "software" without knowing anything about it. You wouldn't hire a mechanic to fix your dog; and, yet, we hire into leadership from backgrounds with _zero_ exposure to the history of the problem they are trying to solve. 
 
-Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine). One engine that defined mid-century aviation was not developed in a vacuum. If you consider that the [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) first flew in 1903 - dropping shells in . 
+Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine). One engine that defined mid-century aviation was not developed in a vacuum. If you consider that the [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) first flew in 1903 - dropping shells in WWI at the speed of , then WWII at the speed of
 
+Each an iteration in the past
 
 Aviation itself is a really interesting lesson in innovation and timescale. 
 
