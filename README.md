@@ -10,7 +10,7 @@ Cloud migrations ("digital transformations") have a reputation - and, largely, i
 
 #### Audience
 
-I remember the first time I told a Leader I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond an interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When those companies make a multi-million dollar mistake, they move on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
+I remember the first time I told a decision maker I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond an interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When those companies make a multi-million dollar mistake, they move on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
 
 If this describes your company, stop reading.
 
