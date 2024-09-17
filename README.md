@@ -1,6 +1,6 @@
 # The Cloud Migration Guidebook
 
-Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some transfomrations fail entirely, leaving  organizations with millions of dollars of spend without results. However, your transformation experience doesn't have to be poor. 
+Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some transformations even fail entirely, leaving  organizations with millions of dollars of spend and no results. However, your transformation experience doesn't have to be poor. 
 
 **The Cloud Migration Guidebook** covers getting to the cloud - and transformation in general. The people. The process. And the technology. The below is rooted in firm, tried philosophies of Software Engineering that have been tested - rigorously - for decades. I've implemented these philosophies - practices, processes, standards - myself (see [**Audience**](#audience) and grown quantifiably stronger, less-expensive teams and software.
 
