@@ -45,7 +45,7 @@ Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](ht
 | Flyer 1              | 4 MPH         | `-`                      | 20 ft.    | `-`                | `-`             | `-`    | 1903                | `-`           |
 | Sopwith Camel        | 113 MPH       | 2,725%                   | 300 mi.   | 7,936,410%         | 19,000 ft.      | `-`    | 1917                | 14            |
 | Supermarine Spitfire | 370 MPH       | 227.4%                   | 450 mi.   | 50%                | 36,000 ft.      | 89.4%  | 1936                | 19            |
-| SR-71 Blackbird      | 2,500 MPH     | 575.7%                   | 3,250 mi. | 622.%              | 85,000 ft.      | 136.1% | 1964                | 28            |
+| SR-71 Blackbird      | 2,500 MPH     | 575.7%                   | 3,250 mi. | 62.2%              | 85,000 ft.      | 136.1% | 1964                | 28            |
 
 A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years.
 
