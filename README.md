@@ -2,19 +2,21 @@
 
 Cloud migrations ("digital transformations") have a reputation - and, largely, it isn't positive. Transformations are known for going over budget, past deadlines, and not necessarily leaving the "transformed" company in a better state - some transformations even fail entirely, leaving  organizations with millions of dollars of spend and no results. However, your transformation experience doesn't have to be poor. 
 
-**The Cloud Migration Guidebook** covers getting to the cloud - and transformation in general. The people. The process. And the technology. The below is rooted in firm, tried philosophies of Software Engineering that have been tested - rigorously - for decades. I've implemented these philosophies - practices, processes, standards - myself (see [**Audience**](#audience) and grown quantifiably stronger, less-expensive teams and software.
+**The Cloud Migration Guidebook** covers getting to the cloud - and transformation in general. The people. The process. And the technology. The below is rooted in firm, tried philosophies of Software Engineering that have been tested - rigorously - for decades. I've implemented these philosophies - practices, processes, standards - myself (see [**Audience**](#audience)) and grown quantifiably stronger, less-expensive teams and software.
+
+You don't have to apply any or all of what you read. I'd argue the most important take away from all of this is the principles. Your implementation can honestly look like whatever you want; just don't deviate from the fundamentals.
 
 ## Introduction
 
 ### My Bias
 
-There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I have admittedly written a lot of what you will read below from that perspective:  despite that we _know_ there is a good way to delivery software, we continuously seek to make delivery overly complex and prone to failure - and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
+There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: misplaced arrogance. I have admittedly written a lot of what you will read below from that perspective:  despite that we _know_ there is a good way to delivery software, we continuously seek to make delivery overly complex and prone to failure - and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
 
 ### Who's This Book For?
 
 #### Audience
 
-I remember the first time I told a decision maker I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond an interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When those companies make a multi-million dollar mistake, they move on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
+I remember the first time I told a decision maker I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond a vaguely interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When those companies make a multi-million dollar mistake, they move on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without questioning its necessity.
 
 If this describes your company, stop reading.
 
