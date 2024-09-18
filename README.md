@@ -24,11 +24,12 @@ This book is for the SaaS or Product company that hasn't broken $1BN in revenue.
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
-This book's ideal reader understands that the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who will fail if their technology fails.
+This book's ideal reader understands t
+the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who will fail if their technology fails.
 
 ##### What Is Successful Software?
 
-I wrote a [high-level article about the definition of "good" a few years back](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I still believe in the soft qualities defined in that article, I also believe a real definition of success is _measurable_. Before you read this book - before you consider adopting these strategies - you should evaluate whether you are aligned with my definition of good software. If you disagree with my defintion of good software, I'd actually encourage you to continue reading. Worst case? You see a different perspective. Read this book from whatever angle, but know that I work against a different framework of thought: _Software Engineering_.
+I wrote a [high-level article about the definition of "good" a few years back](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I still believe in the soft qualities defined in that article, I also believe a real definition of success is _measurable_. Read this book from any angle, but know that I work against a less-common framework of thought: _Software Engineering_.
 
 I don't define success as getting acquired. That shallow definition (and target) has a reputation for delivering unscalable products that fail to meet revenue expectations or integration expectations after acquisition (that's why Merger and Acquisition (M&A) Consulting in technology is big business). I define successful software as: cheap, fast, stable, understandable, replaceable, and extensible. _These_ are all measurable qualities of software. Notice in this definition I don't list Product qualities. I define _software_ as successful if it enables a Product team to make informed decisions about what the Product should do. I define the _software_ as successful if the software can rapidly change to support those findings. I define successful software as software **that does not debilitate an organization from pivoting**.
 
@@ -57,7 +58,9 @@ Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](ht
 
 A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years.
 
-So, how did they do it? Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Aeronautical Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation). And they read about what not to do and don't do it because they know _it would be a waste of time to incessantly repeat the failures of others._ The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
+So, how did they do it? Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Aeronautical Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation). And they read about what not to do and don't do it because they know _it would be a waste of time to incessantly repeat the failures of others._
+
+The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
 
 It's important for you to pay attention to this history below because clearly something is wrong in building software.
 
