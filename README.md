@@ -38,13 +38,14 @@ _Measuring the right thing and using those metrics as a launching off point for 
 
 This history below isn't new, but to successfully produce software, you need to understand it. _You_ need to master it. We've been writing software for _decades_; yet, unlike roads, bridges, houses, manufactured goods, farming, and so on, software fails at an unnacceptably high cost and rate. And it doesn't have to. The reason software's failure is so grandiose is because - in part - people believe they can do "software" without knowing anything about it. You wouldn't hire a mechanic to fix your dog; and, yet, we hire into leadership from backgrounds with _zero_ exposure to the history of the problem they are trying to solve. 
 
-Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine) - an engine that defined mid-century aviation was not developed in a vacuum. The [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) flew in 1903. That first flight was twelve seconds and one-hundred tweny feet (120 ft.) - approximately four miles per hour (4 MPH). By 1916, the British Sopwith Camel could reach three-hundred (300) miles and achieve a maximum speed of one-hundred thirteen MPH (113 MPH). By 1936, the Supermarine Spitfire - outfited with the V12 Rolls Royce Merline - could travel over four-hundred fifty miles (450 mi.) and fly at a maximum speed of three-hundred seventy MPH (370 MPH). In thirty years, Engineers provided nearly a 10,000% increase speed and a 11,879,900% increase in distance over the Wright Brothers' first flight. 
+Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine) - an engine that defined mid-century aviation was not developed in a vacuum. The [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) flew in 1903. That first flight was twelve seconds and one-hundred tweny feet (120 ft.) - approximately four miles per hour (4 MPH). By 1917, the British Sopwith Camel could reach three-hundred (300) miles and achieve a maximum speed of one-hundred thirteen MPH (113 MPH). By 1936, the Supermarine Spitfire - outfited with the V12 Rolls Royce Merline - could travel over four-hundred fifty miles (450 mi.) and fly at a maximum speed of three-hundred seventy MPH (370 MPH). In thirty years, Engineers provided nearly a 10,000% increase speed and a 11,879,900% increase in distance over the Wright Brothers' first flight. 
 
-| Model                | Maximum Speed | Increase Over Last | Distance | Increase Over Last |
-| -------------------- | ------------- | ------------------ | -------- |
-| Flyer 1              | 4 MPH         | -                  | 20 ft.   |
-| Sopwith Camel        | 113 MPH       | 2,725%             | 300 mi.  |
-| Supermarine Spitfire | 370 MPH       | 227.4%             | 450 mi.  |
+| Model                | Maximum Speed | Increase Over Last (IOL) | Distance  | IOL                | Service Ceiling | IOL    | Year of Manufacture | Years Between |
+| -------------------- | ------------- | ------------------------ | --------- | ------------------ | --------------- | ------ | ------------------- | ------------- |
+| Flyer 1              | 4 MPH         | `-`                      | 20 ft.    | `-`                | `-`             | `-`    | 1903                | `-`           |
+| Sopwith Camel        | 113 MPH       | 2,725%                   | 300 mi.   | 7,936,410%         | 19,000 ft.      | `-`    | 1917                | 14            |
+| Supermarine Spitfire | 370 MPH       | 227.4%                   | 450 mi.   | 50%                | 36,000 ft.      | 89.4%  | 1936                | 19            |
+| SR-71 Blackbird      | 2,500 MPH     | 575.7%                   | 3,250 mi. | 622.%              | 85,000 ft.      | 136.1% | 1964                | 28            |
 
 A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years.
 
