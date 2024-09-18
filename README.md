@@ -29,7 +29,7 @@ the first technological choices made in a system's life are the most critical to
 
 ##### What Is Successful Software?
 
-I wrote a [high-level article about the definition of "good" a few years back](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I still believe in the soft qualities defined in that article, I also believe a real definition of success is _measurable_. Read this book from any angle, but know that I work from a less-common framework: _Software Engineering_.
+I wrote a [high-level article about the definition of "good" a few years back](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I still believe in the soft qualities defined in that article, I also believe a real definition of success is _measurable_.
 
 I don't define success as getting acquired. That shallow definition (and target) has a reputation for delivering unscalable products that fail to meet revenue expectations or integration expectations after acquisition (that's why Merger and Acquisition (M&A) Consulting in technology is big business). I define successful software as: cheap, fast, stable, understandable, replaceable, and extensible. _These_ are all measurable qualities of software. Notice in this definition I don't list Product qualities. I define _software_ as successful if it enables a Product team to make informed decisions about what the Product should do. I define the _software_ as successful if the software can rapidly change to support those findings. I define successful software as software **that does not debilitate an organization from pivoting**.
 
