@@ -55,9 +55,7 @@ Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](ht
 
 A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years.
 
-So, how did they do it? Aviation is the intersection of several disciplines. Today those disciplines include computer technology and even the manufacturing of purpose-built microchips. Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation).
-
-The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
+So, how did they do it? Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Aeronautical Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation). And they read about what not to do and don't do it because they know _it would be a waste of time to incessantly repeat the failures of others._ The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
 
 It's important for you to pay attention to this history below because clearly something is wrong in building software.
 
