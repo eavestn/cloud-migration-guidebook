@@ -10,7 +10,7 @@ You don't have to apply any or all of what you read. I'd argue the most importan
 
 ### My Bias
 
-There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: misplaced arrogance. I have admittedly written a lot of what you will read below from that perspective:  despite that we _know_ there is a good way to delivery software, we continuously seek to make delivery overly complex and prone to failure - and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
+There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: misplaced arrogance. I have admittedly written a lot of what you will read below from that perspective:  despite that we _know_ there is a good way to deliver software, we continuously seek to make delivery overly complex and prone to failure - and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
 
 ### Who's This Book For?
 
