@@ -6,6 +6,10 @@ Cloud migrations ("digital transformations") have a reputation - and, largely, i
 
 ## Introduction
 
+### My Bias
+
+There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I have admittedly written a lot of what you will read below from that perspective:  despite that we _know_ there is a good way to delivery software, we continuously seek to make delivery overly complex and prone to failure - and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
+
 ### Who's This Book For?
 
 #### Audience
@@ -51,18 +55,11 @@ Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](ht
 
 A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years.
 
+So, how did they do it? Aviation is the intersection of several disciplines. Today those disciplines include computer technology and even the manufacturing of purpose-built microchips. Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation).
 
-Each an iteration in the past
+The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
 
-Aviation itself is a really interesting lesson in innovation and timescale. 
-
-We've been programming for profit for ... yet we still don't get it right despite ...
-
-Here's the other thing: the most important take away from all of this is the principles. Your implementation can honestly look like whatever you want it to; just don't deviate from the fundamentals. 
-
-##### My Bias
-
-There's a lot of emotion in my [**State of Engineering**](#the-state-of-engineering) introduction to this book, below. My "feeling" isn't a good one. I believe our industry is failing. And I think it is failing for one simple reason: missplaced arrogance. I have admittedly written a lot of what you wil read below from that perspective: that despite the fact that we _know_ there is a good way to delivery software, we continuously seek to make it overly complex and largely do so from a foundation of ignorance. Where able, I've provided links out to articles that start to paint the picture into which many cloud migrations are introduced - and it's a picture you will first have to change if you want to succeed in your cloud migration. 
+It's important for you to pay attention to this history below because clearly something is wrong in building software.
 
 #### The State of Engineering
 
