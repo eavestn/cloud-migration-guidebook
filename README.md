@@ -66,7 +66,9 @@ It's important for you to pay attention to this history below because clearly so
 
 There's a fight going on right now in the mid-2020s; the reputation of the cloud is diminishing. A number of organizations are evaluating their infrastructural posture not having seen the gains they expected by moving off-premises and into "the cloud". Some go as far as to define this fight and evaluation as [the early stages of an exodus](https://www.entrepreneur.com/science-technology/with-rising-costs-and-vendor-lock-ins-is-a-cloud-exodus-in/380648). My _feeling_? Like Marx wrote of the economies, the utopian future is the coming-to-rest of the cloud vs. on-premises predulum smack in the center. But, here's the thing: on-premises solutions are _cheaper_ (see [**The Problems With Cheap On-Premises Services**](#the-problem-with-cheap-on-premises-services) later). Think about it, how many servers could you purchase for $50K a month - a real number that won't shock many technology leaders of cloud-based companies barely breaking $1M USD ARR (though it should, particularly as the spend is likely over-inflated by bad decisions in the magnitude of 10x)? That's right, there are companies today that are so inverted they are spending as much as 50% of their revenue on their cloud infrastructure. And those companies are _still_ running Engineering Organizations 20-30 deep. 
 
-People ask me all the time why Software Organizations fail. The answer is simple. People refuse to acknowledge that driving Software Engineering Organizations requires skill. Not talent.
+People ask me all the time why Software Organizations fail. The answer is simple. People refuse to acknowledge that driving Software Engineering Organizations requires skill. Not talent. For the last time, let's return to the word "arrogance," defined by Merriam Webster as:
+
+> an attitude of superiority manifested in an overbearing manner **or in presumptuous claims or assumptions**
 
 So, how did this happen? How did the cloud become "a bad decision" or "expensive"?
 
