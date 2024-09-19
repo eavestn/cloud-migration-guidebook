@@ -114,7 +114,27 @@ The problem was that people ran with wreckless abandon to the edge of the cliff 
 
 The reality is none of these factors change whether you're in the cloud or on-premises.
 
-#### Focus
+#### The Problems With Cheap On-Premises Services
+
+Costs.
+
+A friend of mine works in IOT for large corporate offices. The problems she and her team solve are enormous. A recent endeavor was determining how to enable corporate office spaces to automate efficient climate control without knowing anything about office structure and environment. Not small problems. She and I disagree about technology all the time. She and I got to talking about how much cheaper on-premises services are to run. The business function she runs is one of the most profitable. I pushed back on her bias for on-premises and immediately she started laying out the solution topography for an on-premises "serverless" function. Her solution was nothing ground breaking (AWS does it probably hundres of millions of times a day); just good, simple, accomplishable Engineering. If you've been around long enough in Engineering, likely you've had to deploy a server-backed solution that makes intelligent us of its operating environment. 
+
+But, as a Hiring Manager, here's the problem I have: the fundamentals of Engineering are disappearing behind an enormous, social-media-driven spray of bad advice. [People are even _reading_ less](https://www.newyorker.com/culture/cultural-comment/why-we-dont-read-revisited) - they're testing their ideas against others' less. Everything is being learned through "secondary orality." _Additionally_, [people aren't even trying to disprove themselves anymore](https://en.wikipedia.org/wiki/Replication_crisis) before launching off on a million-dollar campaign to change the world based on flimsy research. Self-labeled "technology leaders" never having had to deal with the consequences of their poor decision yet issue tome after tome of 250-word blog entries for running effective organizations. A great lot of it runs absolutely counter to the way we know we _have to_ build software. 
+
+Don't believe me? How many organizations do you know that bemoan the fact they can never get _anything_ done? It takes forever. The Engineering team is slow. Change is risky. We are failing to produce good systems because as an industry we have abandoned the fundamentals that matter.
+
+Yet - with that lack of foundation - there are technology leaders who believe we should be talking about self-managing the segmentation of processing on self-hosted servers. Our profession isn't built to support on-premises solutions anymore. And getting back? Getting back is going to be so expensive. You've got to re-train an entire industry and do that while delivering software. Similar to cloud migrations: if you want a team that is _efficient_ in the future, you will have to homogenize your technical posture. Living in two environments - baselining focus on any one solution at fifty percent (50%) out of the gate - is an impossibility without horrendous budgets. So, not only do you have to retrain an entire industry, you've got to _again_ not deliver any new capabilities (risk your relevance) to your customers for two to three years. 
+
+The worst part is that the people that can think the way that is needed to build on-premises systems are becoming a rarer species. And if Keynesian economics teaches us anything, it's what happens to scarce resources in high demand. So, should you develop your system on-premises? Is the infrastructure cheap? Yeah. But what happens when your team quits? What happens when your system fails? What happens when you need to change the size of your team to accommodate the anticipated workload to implement support for a client?
+
+#### So, Cloud Or Not?
+
+You can cloud if you want to, but ask first: is my product stuggling because of my infrastructure? Probably not. Everything you can do in the cloud, you can do [And our technology choices may not even matter in the near future](https://www.nytimes.com/2023/06/02/opinion/ai-coding.html), especially with some of the case studies coming out of Google, Microsoft, and state-level government departments mired in legacy systems.
+
+## Software Engineering Fundamentals
+
+## Focus
 
 To drive strong teams, you must drive focus. Strong teams deliver cheap, scalable, extensible, and maintainable software - the software we aim to deliver. The problem with software today is that there are too many ways to solve problems. Deviations in solution technology choices represent yet more lack of focus for an Engineer: rather than adequately solving a problem, an Engineer ends up focused on something not only unrelated, but avoidable. Technological heterogeneity isn't by nature bad; but it must be managed to enable strong teams. Simply stated: in today's poorly-informed, fast-paced "development" world, the odds are stacked against enabling your team to focus. 
 
@@ -193,19 +213,7 @@ The path forward isn't easy, but it's necessary. It requires a fundamental shift
 
 Depth
 
-#### The Problems With Cheap On-Premises Services
 
-A friend of mine works in IOT for large corporate offices. The problems she and her team solve are enormous. A recent endeavor was determining how to enable corporate office spaces to automate efficient climate control without knowing anything about office structure and environment. Not small problems. She and I disagree about technology all the time. She and I got to talking about how much cheaper on-premises services are to run. The business function she runs is one of the most profitable. I pushed back on her bias for on-premises and immediately she started laying out the solution topography for an on-premises "serverless" function. Her solution was nothing ground breaking (AWS does it probably hundres of millions of times a day); just good, simple, accomplishable Engineering. If you've been around long enough in Engineering, likely you've had to deploy a server-backed solution that makes intelligent us of its operating environment. 
-
-But, as a Hiring Manager, here's the problem I have: the fundamentals of Engineering are disappearing behind an enormous, social-media-driven spray of bad advice. [People are even _reading_ less](https://www.newyorker.com/culture/cultural-comment/why-we-dont-read-revisited) - they're testing their ideas against others' less. Everything is being learned through "secondary orality." _Additionally_, [people aren't even trying to disprove themselves anymore](https://en.wikipedia.org/wiki/Replication_crisis) before launching off on a million-dollar campaign to change the world based on flimsy research. Self-labeled "technology leaders" never having had to deal with the consequences of their poor decision yet issue tome after tome of 250-word blog entries for running effective organizations. A great lot of it runs absolutely counter to the way we know we _have to_ build software. 
-
-Don't believe me? How many organizations do you know that bemoan the fact they can never get _anything_ done? It takes forever. The Engineering team is slow. Change is risky. We are failing to produce good systems because as an industry we have abandoned the fundamentals that matter.
-
-Yet - with that lack of foundation - there are technology leaders who believe we should be talking about self-managing the segmentation of processing on self-hosted servers. Our profession isn't built to support on-premises solutions anymore. And getting back? Getting back is going to be so expensive. You've got to re-train an entire industry and do that while delivering software. Similar to cloud migrations: if you want a team that is _efficient_ in the future, you will have to homogenize your technical posture. Living in two environments - baselining focus on any one solution at fifty percent (50%) out of the gate - is an impossibility without horrendous budgets. So, not only do you have to retrain an entire industry, you've got to _again_ not deliver any new capabilities (risk your relevance) to your customers for two to three years. 
-
-The worst part is that the people that can think the way that is needed to build on-premises systems are becoming a rarer species. And if Keynesian economics teaches us anything, it's what happens to scarce resources in high demand. So, should you develop your system on-premises? Is the infrastructure cheap? Yeah. But what happens when your team quits? What happens when your system fails? What happens when you need to change the size of your team to accommodate the anticipated workload to implement support for a client?
-
-[And our technology choices may not even matter in the near future](https://www.nytimes.com/2023/06/02/opinion/ai-coding.html), especially with some of the case studies coming out of Google, Microsoft, and state-level government departments mired in legacy systems.
 
 
 ## People
