@@ -82,7 +82,7 @@ There are inescapable truths about Software. The worst? [Every system will fail 
 
 If leaders cannot articulate these physics - these truths - then are they able to plan for them? My concern is that I have met very few technology leaders who are capable of articulating these inescapable truths.
 
-Never trust the arrogance that assumes manufacturing the little silver trash can in my bathroom is harder at scale than manufacturing software. People _pretend_ software is different. Why? Software is maleable, quickly modifiable. The perception is that software - as we way in climbing - has a lower commitment grade than manufacturing a trash can.
+Never trust the arrogance that assumes manufacturing the little silver trash can in my bathroom is harder at scale than manufacturing software. People _pretend_ software is different. Why? Software is maleable, quickly modifiable - a dangerous capability. The perception is that software - as we say in climbing - has a lower commitment grade than manufacturing a trash can.
 
 [_Enter stage right the problem of the Customer._]
 
