@@ -92,7 +92,7 @@ Your product sucks? No problem. You'll just change it. Improve relevance, get ca
 
 [_Enter stage left the problem of the Agile "Movement"_.]
 
-A few years ago, some dudes (2001) figured out that you could get your product to the customer and learn more about your product if you got [rid of some rules that were perceived to undermine success](https://agilemanifesto.org/) (success here meaning "making money"). They figured out
+A few years ago, some dudes (2001) figured out that you could get your product to the customer faseter and learn more about your product if you got [rid of some rules that were perceived to undermine success](https://agilemanifesto.org/) (success here meaning "making money"). They figured out
 
 > ... [I]f you wait too long to get your understanding of your customers' needs in front of them, the greater the chance your customers' needs will have changed.
 
