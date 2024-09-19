@@ -86,9 +86,9 @@ Never trust the arrogance that assumes manufacturing the little silver trash can
 
 [_Enter stage right the problem of the Customer._]
 
-About twenty years ago, the industry learned something dangerous in software. There's infinite cash on the table. If your software can do exactly what your user needs, then that cash is yours. And - theoretically - the more your software does of what's needed, the more needed your software becomes. Unfortunately, Waterfall taught us that if you wait too long to get your understanding of your customers' needs in front of them ("the product"), the greater the chance your customers' needs will have changed - you will have burned your cash and delivered something irrelevant. The belief is that **the faster you get your product in front of the customers, the faster you can understand if the product meets the customers needs**. You also get the ever-needed, gold-encrusted feedback. 
+About twenty years ago, the industry learned something dangerous in software: there's near-infinite cash on the table. If your software can do exactly what your user needs, then that cash is yours. And - theoretically - the more your software does of what is needed, the more needed your software becomes. Waterfall taught us that if you wait too long to get your understanding of your customers' needs in front of them ("the product"), the greater the chance your customers' needs will have changed - you will have burned your cash and delivered something irrelevant. The belief is that **the faster you get your product in front of the customers, the faster you can understand if the product meets the customers needs**. You also get the ever-needed, gold-encrusted feedback. 
 
-Your product sucks? No problem. You'll just change it.
+Your product sucks? No problem. You'll just change it. Improve relevance, get cash. Simple, right?
 
 [_Enter stage left the problem of the Agile "Movement"_.]
 
