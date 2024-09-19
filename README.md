@@ -80,7 +80,7 @@ Futher layer into this - the problem of underexposure - a fact (and one people w
 
 There are inescapable truths about Software. The worst? [Every system will fail to meet needs and will become progressively worse over time](https://medium.com/@eavestn/the-common-life-of-source-code-4c6aba1250fb). Why? Systems fail because people believe they can out perform the very physics of software - or, perhaps, they are just unaware.
 
-If leaders cannot articulate these truths, then are they able to plan for them? My concern is that I have met very few technology leaders who are capable of articulating these inescapable truths.
+If leaders cannot articulate these physics - these truths - then are they able to plan for them? My concern is that I have met very few technology leaders who are capable of articulating these inescapable truths.
 
 Never trust the arrogance that assumes manufacturing the little silver trash can in my bathroom is harder at scale than manufacturing software. People _pretend_ software is different. Why? Software is maleable, quickly modifiable. The perception is that software - as we way in climbing - has a lower commitment grade than manufacturing a trash can.
 
