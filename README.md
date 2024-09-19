@@ -72,7 +72,7 @@ People ask me all the time why Software Organizations fail. The answer is simple
 
 So, how did this happen? How did the cloud become "a bad decision" or "expensive"?
 
-There are always two costs to any project: the tools and the decision making of the people using those tools. That decision making - _the_ factor driving the short- and long-term costs of _your_ company - is informed by skills. Those skills are rooted in a person's training, a person's exposure, and a person's humanity. If that person has not been exposed to a different way of doing this - and people are intrisically motivated to do what they know - then their ability to do what's best for your company is severely limited by their exposure. 
+There are always two costs to any project: the tools and the decision making of the people using those tools. That decision making - _the_ factor driving the short- and long-term costs of _your_ company - is informed by skill. That skill is rooted in a person's training, a person's exposure, and a person's humanity. If that person has not been exposed to a different way of doing this - and people are intrisically motivated to do what they know - then their ability to do what's best for your company is severely limited by their exposure. 
 
 [Curtain opens on Leader. Standing alone. Center stage.]
 
@@ -280,3 +280,5 @@ When I define success measurably, I can evaluate whether or not I have succeeded
 ### Standards
 
 ## clarity - shift legt
+
+## Long-term employees kill companies
