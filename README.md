@@ -56,11 +56,9 @@ Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](ht
 | Supermarine Spitfire  | 370 MPH        | 227.4%                    | 450 mi.    | 50%                 | 36,000 ft.      | 89.4%  | 1936                | 19            |
 | SR-71 Blackbird       | 2,500 MPH      | 575.7%                    | 3,250 mi.  | 62.2%               | 85,000 ft.      | 136.1% | 1964                | 28            |
 
-A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years.
+So, how did they do it? Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Aeronautical Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation). They document what not to do and don't do it again because they know _it would be a waste of time to incessantly repeat the failures of others._
 
-So, how did they do it? Aeronautical Engineers would be nowhere without the continuous iterative evaluation of - and response to - the environment and functions that produce flight. In the over one-hundred years of aviation, Aeronautical Engineers have learned several things, including what _not_ to do (and have largely gotten there through structured experimentation). And they read about what not to do and don't do it because they know _it would be a waste of time to incessantly repeat the failures of others._
-
-The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
+A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the-shelf phones can store up to one terabyte (1 TB) of data - a 390,625,000,000% increase in fifty years. The first Windows system was introduced nearly forty years ago in 1985. Yet, despite having done the research and despite knowing how to deliver quality software, we still fail far more often than we succeed. 
 
 It's important for you to pay attention to this history below because clearly something is wrong in building software.
 
