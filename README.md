@@ -21,9 +21,16 @@ If you take away one thing from this guide, it's the two principles:
 
 #### Audience
 
-I remember the first time I told a decision maker I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond a vaguely interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When _that_ company made a _multi-million dollar mistake_ ($80M USD), they moved on, uninterrupted. _Those_ companies are able to spend as much as 20% of their revenue on their Enginering Organization without question. If this describes your company, stop reading.
+I remember the first time I told a decision maker I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond a vaguely interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When _that_ company made a _multi-million dollar mistake_ ($80M USD), they moved on. _Those_ companies spend as much as 20% of their revenue on their Enginering Organization without question.
 
-This book is for the SaaS or Product company that hasn't broken $1BN in revenue. Why? I haven't yet implemented these patterns at that scale. I have _proven_ the below patterns and principles for organizations that: range from less than $1M USD ARR to well near $1B USD; range from fewer than five (5) Engineers to organizations with greater than 150; have audience bases between 100,000 users and 300M; and may need the capability to support transactions per second thresholds (TPS) of multiple-hundreds of transactions per second. I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem. 
+This book is for leaders and contributors in the SaaS or Product company that hasn't broken $1BN in revenue. I haven't implemented these patterns above that scale, but I _have_ implemented and proven the below patterns and principles for organizations that:
+
+- Range from less than $1M USD ARR to well near $1B USD;
+- Range from fewer than five (5) Engineers to organizations with greater than 150;
+- Have audience bases between 100,000 users and 300M;
+- And may need the capability to support transactions per second thresholds (TPS) of multiple-hundreds of transactions per second.
+
+I've seen what works in these organizations, put it in place, measured it, and had a great deal of success. I've also seen the exact opposite of what to do - and had the displeasure of solving _that_ problem. 
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
