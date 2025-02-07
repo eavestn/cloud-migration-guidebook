@@ -9,9 +9,9 @@ If you take away one thing from this guide, it's the two principles:
 1. Transformation cannot happen without first addressing the environment in which the transformation must happen.
 2. Both - transformation and environment change - **cannot** be done at the same time.
 
-### Who's This Book For?
+## Who's This Book For?
 
-#### Audience
+### Audience
 
 I remember the first time I told a decision maker I could save $25K USD per month (67%) on their cloud bill - for a single department - and the plan never getting traction beyond a vaguely interested eyebrow. Eventually, a company becomes so large its revenue growth outpaces its technology spend - that $25K USD per month is just acceptable waste. When _that_ company made a _multi-million dollar mistake_ ($80M USD), they moved on. _Those_ companies spend as much as 20% of their revenue on their Enginering Organization without question.
 
@@ -28,7 +28,7 @@ Yes, you need to get to a place where your revenue growth or market position are
 
 This book's ideal reader understands the **first** technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who cannot recover in a world on unstable technology - and don't have the very expensive budget to remediate that instability.
 
-##### What Is Successful Software?
+#### What Is Successful Software?
 
 I wrote a [high-level article about the definition of "good" a few years back](https://medium.com/@eavestn/the-software-definition-of-good-c8c435212aff); and, while I still believe in the soft qualities defined in that article, I also believe a real definition of success is _measurable_.
 
@@ -42,15 +42,15 @@ The audience of this book believes that success is built on good software.
 
 _Measuring the right thing and using those metrics as a launching off point for deeper conversations is something I address in [**Metrics**](#metrics)._
 
-### To Cloud or Not To Cloud
+## To Cloud or Not To Cloud
 
-#### Why You Need To Pay Attention
+### Why You Need To Pay Attention
 
 This history below isn't new, but to successfully produce software, you need to understand it. _You_ need to master it. We've been writing software for _decades_; yet, unlike roads, bridges, houses, manufactured goods, farming, and so on, software fails at an unnacceptably high cost and rate. And it doesn't have to. The reason software's failure is so grandiose is because - in part - people believe they can do "software" without knowing anything about it ("[arrogance](https://www.merriam-webster.com/dictionary/arrogance)"). You wouldn't hire a mechanic to fix your dog; and, yet, we hire into leadership from backgrounds with _zero_ exposure to the history of the problem they are trying to solve. 
 
 Let's take a simple historical anecdote: [The V12 Rolls Royce Merline (1933)](https://www.iwm.org.uk/history/the-rolls-royce-merlin-engine) - an engine that defined mid-century aviation was not developed in a vacuum. The [Wright Brothers](https://airandspace.si.edu/explore/stories/researching-wright-way) flew in 1903. That first flight was twelve seconds and one-hundred tweny feet (120 ft.) - approximately four miles per hour (4 MPH). By 1917, the British Sopwith Camel could reach three-hundred (300) miles and achieve a maximum speed of one-hundred thirteen MPH (113 MPH). By 1936, the Supermarine Spitfire - outfited with the V12 Rolls Royce Merline - could travel over four-hundred fifty miles (450 mi.) and fly at a maximum speed of three-hundred seventy MPH (370 MPH). In thirty years, Engineers provided nearly a 10,000% increase in speed and a 11,879,900% increase in distance over the Wright Brothers' first flight. 
 
-##### Flight Numbers
+#### Flight Numbers
 
 | Model                 | Maximum Speed  | Increase Over Last (IOL)  | Distance   | IOL                 | Service Ceiling | IOL    | Year of Manufacture | Years Between |
 | --------------------: | -------------: | ------------------------: | ---------: | ------------------: | ---------------: | ------: | :-------------------: | :-------------: |
@@ -65,7 +65,7 @@ A 1971 computer had two-hundred fifty-six bytes (256B) of memory. Today, off-the
 
 It's important for you to pay attention to this history below because clearly something is wrong in building software.
 
-#### The State of Engineering
+### The State of Engineering
 
 There's a fight going on right now in the mid-2020s; the reputation of the cloud is diminishing. A number of organizations are evaluating their infrastructural posture not having seen the gains they expected by moving off-premises and into "the cloud". Some go as far as to define this fight and evaluation as [the early stages of an exodus](https://www.entrepreneur.com/science-technology/with-rising-costs-and-vendor-lock-ins-is-a-cloud-exodus-in/380648). My _feeling_? Like Marx wrote of the economies, the utopian future is the coming-to-rest of the cloud vs. on-premises predulum smack in the center. But, here's the thing: on-premises solutions are _cheaper_ (see [**The Problems With Cheap On-Premises Services**](#the-problem-with-cheap-on-premises-services) later). Think about it, how many servers could you purchase for $50K a month - a real number that won't shock many technology leaders of cloud-based companies barely breaking $1M USD ARR (though it should, particularly as the spend is likely over-inflated by bad decisions in the magnitude of 10x)? That's right, there are companies today that are so inverted they are spending as much as 50% of their revenue on their cloud infrastructure. And those companies are _still_ running Engineering Organizations 20-30 deep. 
 
@@ -117,7 +117,7 @@ The problem was that people ran with wreckless abandon to the edge of the cliff 
 
 The reality is none of these factors change whether you're in the cloud or on-premises.
 
-#### The Problems With Cheap On-Premises Services
+### The Problems With Cheap On-Premises Services
 
 Costs.
 
@@ -131,7 +131,7 @@ Yet - with that lack of foundation - there are technology leaders who believe we
 
 The worst part is that the people that can think the way that is needed to build on-premises systems are becoming a rarer species. And if Keynesian economics teaches us anything, it's what happens to scarce resources in high demand. So, should you develop your system on-premises? Is the infrastructure cheap? Yeah. But what happens when your team quits? What happens when your system fails? What happens when you need to change the size of your team to accommodate the anticipated workload to implement support for a client?
 
-#### So, Cloud Or Not?
+### So, Cloud Or Not?
 
 You can cloud if you want to, but ask first: is my product stuggling because of my infrastructure? Probably not. Everything you can do in the cloud, you can do [And our technology choices may not even matter in the near future](https://www.nytimes.com/2023/06/02/opinion/ai-coding.html), especially with some of the case studies coming out of Google, Microsoft, and state-level government departments mired in legacy systems.
 
