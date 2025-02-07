@@ -34,7 +34,7 @@ I've seen what works in these organizations, put it in place, measured it, and h
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
-This book's ideal reader understands the **first** technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who will fail if their technology fails.
+This book's ideal reader understands the **first** technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who cannot recover in a world on unstable technology - and don't have the very expensive budget to remediate that instability.
 
 ##### What Is Successful Software?
 
