@@ -15,6 +15,67 @@ You don't have to apply any or all of what you read. I'd argue the most importan
 
 # Software Engineering Fundamentals
 
+The fundamentals matter. 
+
+## Why Fundamentals Matter
+
+In a dimly lit conference room in Silicon Valley, a scene plays out that's become all too familiar in the software industry. A senior engineer argues passionately about following established engineering practices, while a product manager emphasizes the need for speed and innovation. The tension in the room is palpable, reflecting a deeper conflict that has plagued software development since its inception.
+
+"We're different," the product manager insists. "Those standards don't apply to us."
+
+This moment captures what we in the industry call the Fallacy of Exceptionalism – the belief that an organization is somehow immune to the fundamental challenges that have shaped our industry's best practices. It's a dangerous mindset that has led countless promising projects to their demise.
+
+Consider the humble electrical outlet. Across the United States, every plug must conform to specific physical specifications. These standards weren't created arbitrarily; they emerged from years of experience, accidents, and engineering wisdom. When you plug in your device, you don't question whether it will work – it simply does, because standardization ensures compatibility, safety, and reliability.
+
+Software engineering, despite dealing with seemingly abstract concepts, is no different. We're not producing mere ideas; we're creating products that people physically interact with, systems that must adapt and scale, architectures that need to withstand the test of time. The Institute of Electrical and Electronics Engineers (IEEE) has documented thousands of case studies that demonstrate this reality. Their Software Engineering Body of Knowledge (SWEBOK) isn't just bureaucratic overhead – it's a distillation of decades of hard-learned lessons.
+
+Yet, time and again, organizations succumb to the siren song of exceptionalism. They skip documentation, rush through testing, bypass proven design patterns, all in the name of speed and innovation. The results are predictable: technical debt accumulates, systems become brittle, and the ability to pivot – often crucial for business survival – diminishes.
+
+Look at the tech giants of today. Google wasn't born at Google-scale. Amazon didn't spring forth handling millions of transactions. They grew to handle massive scale precisely because they respected engineering fundamentals. Their success wasn't built on ignoring standards but on understanding and implementing them effectively.
+
+The cost of ignoring these fundamentals often becomes apparent only when it's too late. Three, four, or eight years into a company's journey, when the opportunity for a crucial pivot arrives, the accumulated technical debt becomes an insurmountable barrier. The very shortcuts taken to "move fast" become the anchors that prevent movement altogether.
+
+The irony is that this pattern repeats itself with remarkable consistency. Organizations believing they can outsmart decades of engineering experience end up rediscovering the same pitfalls, paying the same prices, and learning the same lessons that led to the creation of these standards in the first place.
+
+This isn't to say that innovation doesn't have its place. But true innovation builds upon solid foundations; it doesn't ignore them. The choice isn't between agility and engineering rigor – it's about understanding that proper engineering practices enable sustainable agility.
+
+When we examine successful software organizations, we find they share a common trait: they stand on the shoulders of giants rather than stumbling through well-documented pitfalls. They understand that software engineering standards, like the physical specifications for electrical outlets, exist not to constrain but to enable – to ensure that what we build today can power the needs of tomorrow.
+
+The fundamentals matter because they represent our collective learning as an industry. They matter because software isn't just code – it's infrastructure that powers modern society. And most importantly, they matter because ignoring them doesn't make you exceptional; it just makes you the next case study in why they exist in the first place.
+
+## Evidence-Based Engineering
+
+In medicine, the shift to evidence-based practice revolutionized patient care. Doctors moved from relying on intuition and tradition to making decisions based on rigorous research and documented outcomes. This transformation didn't happen overnight, and it wasn't without resistance. Yet today, we'd be skeptical of any medical professional who dismissed peer-reviewed studies in favor of their personal theories.
+
+Software engineering stands at a similar crossroads. We have thousands of case studies, decades of research, and countless documented successes and failures. Organizations like IEEE have meticulously cataloged what works, what doesn't, and under what circumstances. Yet many software teams continue to operate on intuition, preferences, and untested assumptions.
+
+Consider a typical scenario: a team decides to skip writing tests because "we move too fast for testing." This decision isn't based on evidence – in fact, it contradicts numerous studies showing that tested code reduces bug rates, speeds up development, and improves maintainability. The IEEE's Software Engineering Body of Knowledge contains extensive research demonstrating that every dollar spent on testing saves multiple dollars in maintenance and bug fixes.
+
+This rejection of evidence-based practices often stems from a fundamental misunderstanding of software engineering's nature. Software development isn't art, where personal expression trumps established techniques. It's engineering – a discipline where outcomes can be measured, compared, and improved through systematic study.
+
+The evidence is clear and compelling:
+- Version control practices reduce code conflicts and improve collaboration
+- Code reviews catch bugs earlier in the development cycle when they're cheaper to fix
+- Documentation reduces onboarding time and maintenance costs
+- Automated testing improves code quality and reduces regression bugs
+- Standard architectures improve system maintainability and scalability
+
+These aren't opinions or preferences – they're conclusions drawn from thousands of real-world projects, meticulously studied and documented. When organizations like IBM, Microsoft, or Google publish case studies through IEEE, they're not sharing theories but documented results with measurable outcomes.
+
+Yet resistance persists. Teams continue to "reinvent the wheel," ignoring decades of evidence in favor of learning lessons the hard way. This approach isn't just inefficient – it's professionally irresponsible. Would we trust a bridge builder who ignored structural engineering principles in favor of their personal theories?
+
+Evidence-based engineering doesn't stifle innovation; it enables it. By building on proven foundations, engineers can focus their creative energy on solving new problems rather than relitigating solved ones. When Google tackles a new challenge, they don't redesign basic data structures – they build on proven fundamentals to push the boundaries of what's possible.
+
+The path forward is clear. Just as medicine embraced evidence-based practice, software engineering must move beyond intuition and preference to embrace documented evidence. This means:
+- Studying and applying proven patterns rather than reinventing them
+- Making decisions based on data rather than opinions
+- Learning from others' experiences rather than repeating their mistakes
+- Contributing to the body of knowledge through careful documentation of outcomes
+
+The cost of ignoring evidence is too high. In an industry where failure rates for software projects remain stubbornly high, we can't afford to dismiss the lessons learned through decades of collective experience. Every failed project that ignored evidence-based practices becomes another case study in why they matter.
+
+The future of software engineering lies not in maverick intuition but in the careful application of proven principles, guided by evidence and refined through experience. As our industry matures, the question isn't whether to embrace evidence-based engineering, but how quickly we can make it the standard rather than the exception.
+
 ## Focus
 
 To drive strong teams, you must drive focus. Strong teams deliver cheap, scalable, extensible, and maintainable software - the software we aim to deliver. The problem with software today is that there are too many ways to solve problems. Deviations in solution technology choices represent yet more lack of focus for an Engineer: rather than adequately solving a problem, an Engineer ends up focused on something not only unrelated, but avoidable. Technological heterogeneity isn't by nature bad; but it must be managed to enable strong teams. Simply stated: in today's poorly-informed, fast-paced "development" world, the odds are stacked against enabling your team to focus. 
