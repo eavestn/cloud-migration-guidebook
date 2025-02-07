@@ -8,11 +8,9 @@ You don't have to apply any or all of what you read. I'd argue the most importan
 
 ## Table of Contents
 
-| Chapter |
-| ------  |
-| [Introduction](./chapters/00-Introduction.md) |
-
-
+| Chapter | Topic |
+| ------  | ----- |
+| [Introduction](./chapters/00-Introduction.md) | Bias, Audience, Success |
 
 ## Software Engineering Fundamentals
 
