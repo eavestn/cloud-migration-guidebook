@@ -11,8 +11,9 @@ You don't have to apply any or all of what you read. I'd argue the most importan
 | Chapter | Topic |
 | ------  | ----- |
 | [Introduction](./chapters/00-Introduction.md) | Bias, Audience, Success |
+| [Software Delivery Fundamentals]() | |
 
-## Software Engineering Fundamentals
+# Software Engineering Fundamentals
 
 ## Focus
 
@@ -21,7 +22,7 @@ To drive strong teams, you must drive focus. Strong teams deliver cheap, scalabl
 Companies have a bias for touch - particularly when it comes to transformations. They want to _see_ the **results** of the transformation **immediately**. 
 
 
-# The Impact of 'Big' Initial Deliverables on Focus and Efficiency
+# The Impact of 'Big' Initial Deliverables on Focus
 
 ## 1. The "Touch" Mentality
 
@@ -172,3 +173,5 @@ When I define success measurably, I can evaluate whether or not I have succeeded
 ## Long-term employees kill companies
 
 ### Smaller doesn't mean "Nope"; it means more "yes"
+
+### Software Fundamentals: MEasureing Everything First
