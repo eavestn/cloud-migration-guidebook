@@ -27,8 +27,7 @@ This book is for the SaaS or Product company that hasn't broken $1BN in revenue.
 
 Yes, you need to get to a place where your revenue growth or market position are so strong that you can do whatever you want. But to do that, you first have to survive - and do so without debilitating your company in the process.
 
-This book's ideal reader understands t
-the first technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who will fail if their technology fails.
+This book's ideal reader understands the **first** technological choices made in a system's life are the most critical to that system's success. This book's audience believes good software is sofware that succeeds. Realistically, this book is for the companies who will fail if their technology fails.
 
 ##### What Is Successful Software?
 
